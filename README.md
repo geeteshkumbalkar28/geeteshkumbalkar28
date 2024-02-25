@@ -6,15 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeteshkumbalkar28&label=Profile%20views&color=0e75b6&style=flat" alt="geeteshkumbalkar28" /> </p>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react js**
 
 - 📫 How to reach me **Geeteshkumbalkar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PHk31IO0LrEe_qGmlMlL0t4IRXBEg_C5/view?usp=share_link](https://drive.google.com/file/d/1PHk31IO0LrEe_qGmlMlL0t4IRXBEg_C5/view?usp=share_link)
-
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
